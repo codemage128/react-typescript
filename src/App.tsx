@@ -12,7 +12,7 @@ function App() {
         <h1 className="display-3 text-center">Welcome to react app.</h1>
       </Jumbotron>
       <div className="container">
-        <Display />
+        <Display/>
       </div>
     </>
   );
